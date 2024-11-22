@@ -1,4 +1,4 @@
-//#include "allInlcudes.h"
+#include "allInlcudes.h"
 
 
 // Управление вводом символов

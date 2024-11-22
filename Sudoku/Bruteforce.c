@@ -1,4 +1,4 @@
-//#include "allInlcudes.h"
+#include "allInlcudes.h"
 
 bool solve_sudoku_with_visualization(char **sudoku, short size) {
     for (short row = 0; row < size; row++) {
